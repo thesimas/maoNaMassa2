@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>🚗 Mão na Massa 2 </h1>
+  <h1>🚗 Sistema de Gestão de Lavação (v2.0) </h1>
   <p>
-    <strong>Projeto de POO - IFSC Câmpus Florianópolis</strong>
+    <strong>Projeto "Mão na Massa 2" - POO Java | IFSC Câmpus Florianópolis</strong>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Java-17+-orange?style=flat&logo=java" alt="Java" />
