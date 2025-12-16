@@ -24,3 +24,7 @@ Sistema backend em Java para gerenciamento de clientes e veículos de uma lavaç
 * **Composição:** O ciclo de vida do `Motor` depende do `Modelo`, e a `Pontuacao` é inicializada obrigatoriamente junto ao `Cliente`.
 * **Associação:** Relação bidirecional controlada entre `Cliente` e `Veiculo`.
 * **Enums:** Uso de `ECategoria` e `ETipoCombustivel` para tipagem forte e descrições constantes.
+
+
+## 👨‍💻 Autor
+Desenvolvido por **Luciano Simas Junior** | IFSC Florianópolis
